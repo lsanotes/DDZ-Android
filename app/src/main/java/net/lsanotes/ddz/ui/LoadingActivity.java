@@ -19,7 +19,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.ProgressBar;
 import android.widget.ToggleButton;
 
-public class LoadingActivity extends FullScreenActivity {
+public class LoadingActivity extends PgyerActivity {
 
 	protected static final String LOG_TAG = "LoadingActivity";
 

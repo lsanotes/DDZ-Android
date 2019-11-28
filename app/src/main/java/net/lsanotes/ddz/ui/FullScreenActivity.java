@@ -1,9 +1,11 @@
 package net.lsanotes.ddz.ui;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
+@SuppressLint("Registered")
 public class FullScreenActivity extends Activity {
 
     @Override
