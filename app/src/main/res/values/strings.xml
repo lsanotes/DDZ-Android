@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">F Landlord</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="loading_voice_enable">Voice: Enabled</string>
+    <string name="loading_voice_disable">Voice: Closed</string>
+    <string name="loading_start_game">Start</string>
+    <string name="loading_share">Share</string>
+    <string name="default_share_title">Share</string>
+    <string name="default_share_content">Found a very fund card game, come and play with me！http://t.cn/R2Sq4cQ</string>
+</resources>
