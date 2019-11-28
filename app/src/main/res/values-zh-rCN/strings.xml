@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">斗地主</string>
+    <string name="app_name">斗斗斗</string>
     <string name="title_activity_loading">LoadingActivity</string>
     <string name="loading_voice_enable">音效：打开</string>
     <string name="loading_voice_disable">音效：关闭</string>
-    <string name="loading_start_game">开始游戏</string>
-    <string name="loading_share">分享游戏</string>
-    <string name="default_share_title">分享游戏</string>
-    <string name="default_share_content">发现一个好玩的斗地主游戏，快来和我一起玩吧！http://t.cn/R2Sq4cQ</string>
+    <string name="loading_start_game">开始</string>
+    <string name="loading_share">分享</string>
+    <string name="default_share_title">分享</string>
+    <string name="default_share_content">发现一个好玩的，快来和我一起玩吧！http://t.cn/R2Sq4cQ</string>
 </resources>
