@@ -7,4 +7,5 @@
     <string name="loading_share">Share</string>
     <string name="default_share_title">Share</string>
     <string name="default_share_content">Found a very fund card game, come and play with me！http://t.cn/R2Sq4cQ</string>
+    <string name="game_over">Game Over</string>
 </resources>

@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
+import net.lsanotes.ddz.R;
 import net.lsanotes.ddz.ai.Game;
 import net.lsanotes.ddz.ai.TipRobot;
 import net.lsanotes.ddz.ai.Game.Status;
@@ -1040,7 +1041,7 @@ public class MainActivity extends FullScreenActivity implements GameScreen{
     
     private void showGameOverDialog(boolean humanWin) {
     	Builder builder = new Builder(this);
-		builder.setTitle("游戏结束").setMessage( (humanWin?"您赢了！":"你挂了，") + "是否重来？")
+		builder.setTitle(R.string.game_over).setMessage((humanWin ? "您赢了！" : "你挂了，") + "是否重来？")
 				.setPositiveButton(android.R.string.ok, new OnClickListener() {
 
 					@Override
